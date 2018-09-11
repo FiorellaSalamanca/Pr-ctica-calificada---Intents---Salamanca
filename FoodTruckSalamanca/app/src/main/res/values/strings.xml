@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Truck - Salamanca</string>
+    <string name="str_nombre">Ingrese su Nombre</string>
+
+    <string name="str_texto">MENU DEL DIA</string>
+    <string name="str_texto2">Elija su pedido:</string>
+
+    <string name="ckb_op1">Ceviche</string>
+    <string name="ckb_op2">Chicharron de Pollo</string>
+    <string name="ckb_op3">Papa a la Huancaina</string>
+    <string name="ckb_op4">Parihuela de Mariscos</string>
+    <string name="ckb_op5">Aji de Gallina</string>
+    <string name="ckb_op6">Arroz Chaufa de Mariscos</string>
+
+    <string name="str_send">ENVIAR PEDIDO</string>
+    <string name="send_to">Enviar por</string>
+</resources>
