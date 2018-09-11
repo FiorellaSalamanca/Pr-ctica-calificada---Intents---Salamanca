@@ -1,1 +1,1 @@
-# Pr-ctica-calificada---Intents---Salamanca
+# Practica-calificada---Intents---Salamanca
